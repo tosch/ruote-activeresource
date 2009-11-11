@@ -1,0 +1,34 @@
+
+= ruote-activeresource
+
+ruote 2.0 extension for a participant using ActiveResource to send messages around
+
+
+== usage
+
+well...
+
+
+== running tests
+
+to run unit tests
+
+  ruby test/test.rb
+
+
+== license
+
+MIT
+
+
+== links
+
+http://api.rubyonrails.org/files/vendor/rails/activeresource/README.html
+http://ruote.rubyforge.org/
+
+
+== feedback
+
+mailing list : http://groups.google.com/group/openwferu-users
+irc : irc.freenode.net #ruote
+

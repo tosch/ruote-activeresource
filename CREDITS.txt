@@ -1,0 +1,15 @@
+
+= ruote-activeresource CREDITS.txt
+
+
+== authors
+
+- John Mettraux (http://jmettraux.wordpress.com)
+- Torsten Schönebaum (http://github.com/tosch)
+
+
+
+== many thanks to
+
+- the Rails team
+
